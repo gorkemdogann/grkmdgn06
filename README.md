@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Cengiz</h1>
+<h1 align="center">Hi 👋, I'm Gorkem</h1>
 <h3 align="center">A junior Software Developer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizcmataraci" alt="cengizcmataraci" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, Vue.js, Javascript etc.**
-
-- 📝 I regularly write articles on [https://cengizcmataraci.me](https://cengizcmataraci.me)
-
-- 💬 Ask me about **Rails, Vue and Linux.**
-
-- 📫 How to reach me **cengizcmataraci@kablosuzbeyin.com**
+- 🌱 I’m currently learning **Ruby on Rails, React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cengizcmataraci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cengizcmataraci" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12544106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12544106" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gorkemdogan06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cengizcmataraci" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11744270/grkmdgn?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12544106" height="30" width="40" /></a>
 <a href="https://instagram.com/cengizcmataraci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cengizcmataraci" height="30" width="40" /></a>
-<a href="https://medium.com/@cengizcmataraci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
-<a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="3kGnYm6" height="30" width="40" /></a>
+<a href="https://medium.com/@grkm-50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+<a href="https://discord.gg/phm6EeJh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="3kGnYm6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
