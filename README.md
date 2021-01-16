@@ -23,13 +23,23 @@
   
   <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="bash" width="35" height="35"/> </a> 
   
+  <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="35" height="35"/> </a> 
+  
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a> 
+
+
+   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a> 
+
+  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" height="35"/> </a>
+
+  
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a> 
  
   
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
   
   
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="bulma" width="35" height="35"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="35" height="35"/> </a>
 
   
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a>
@@ -40,26 +50,21 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> 
     
-  <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="jekyll" width="35" height="35"/> </a> 
 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> 
   
+  
+   <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="35" height="35"/> </a> 
+
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="35" height="35"/> </a>   
   
-  <a href="https://www.oracle.com/tr/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svhttps://www.vectorlogo.zone/logos/oracle/oracle-ar21.svgg" alt="sqlite" width="35" height="35"/> </a> 
+  <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="sqlite" width="35" height="35"/> </a> 
 
-
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="35" height="35"/> </a> 
   
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="35" height="35"/> </a> 
-
   
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a> 
   
   
-   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a> 
-
-  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" height="35"/> </a>
     
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="35" height="35"/> </a> 
     
