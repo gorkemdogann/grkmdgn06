@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gorkem</h1>
 <h3 align="center">A junior Software Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizcmataraci" alt="cengizcmataraci" /></a> </p>
-
 - 🌱 I’m currently learning **Ruby on Rails, React.js**
 
 <h3 align="left">Connect with me:</h3>
