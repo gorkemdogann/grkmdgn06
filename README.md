@@ -9,9 +9,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gorkemdogan06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cengizcmataraci" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11744270/grkmdgn?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12544106" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cengizcmataraci" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/grkmdgn06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
-  <a href="https://twitter.com/grkm_python" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/grkmdgn06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="@grkmdgn06" height="30" width="40" /></a>
+  <a href="https://twitter.com/grkm_python" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@grkmdgn06" height="30" width="40" /></a>
 <a href="https://discord.gg/phm6EeJh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="3kGnYm6" height="30" width="40" /></a>
 </p>
 
