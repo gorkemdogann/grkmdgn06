@@ -46,7 +46,7 @@
   
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="35" height="35"/> </a>   
   
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/> </a> 
+  <a href="https://www.oracle.com/tr/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svhttps://www.vectorlogo.zone/logos/oracle/oracle-ar21.svgg" alt="sqlite" width="35" height="35"/> </a> 
 
 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="35" height="35"/> </a> 
